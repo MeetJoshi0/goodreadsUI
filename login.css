@@ -1,0 +1,10 @@
+.form-control{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 5Vh auto; 
+}
+
+.margin-15{
+    margin-top: 15vh;
+}
